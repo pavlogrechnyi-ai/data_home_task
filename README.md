@@ -7,3 +7,4 @@
 - hw_9.2 Control Flow.ipynb (Домашнє завдання до теми "Конструкція if...else")
 - hw_9.3 Цикл for.ipynb (Домашнє завдання до теми "Цикл for")
 - hw_9.3 Comprehensions.ipynb (Домашнє завдання до теми "Comprehensions в Python")
+- hw_9.3 Цикл while.ipynb (Домашнє завдання до теми "Цикл while")
